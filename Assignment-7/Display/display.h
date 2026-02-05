@@ -1,0 +1,2 @@
+void display(char *str);
+
